@@ -7,6 +7,7 @@ Zawartość repozytorium:
 2. Folder MyVideoStabilizer zawierający kod źródłowy aplikacji do stabilizowania filmów
 3. Folder TwoSimultaneousVideosPlayer zawierający kod źródłowy aplikacji do porównywania filmu ustabilizowanego z oryginalnym lub ogólnie do porównywania 2 filmów
 4. Plik output zawierający przykładowy rezultat działania aplikacji do stabilizowania filmów (rezultatem działania aplikacji jest też ustabilizowany film)
+5. Plik .xls zawierający pomiary działania algorytmu stabilizacji filmów wideo w porównaniu z innymi stosowanymi algorytmami stabilizacji
 
 Przykładowe filmy do stabilizacji pobierałem ze strony
 http://liushuaicheng.org/SIGGRAPH2013/database.html
